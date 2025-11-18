@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nakhla/core/routing/routes.dart';
+import 'package:nakhla/features/home_screen/presentation/views/home_screen.dart';
+import 'package:nakhla/features/login_screen/presentation/views/login_screen.dart';
 
 class AppRouter {
   Route generateRoute(RouteSettings settings) {

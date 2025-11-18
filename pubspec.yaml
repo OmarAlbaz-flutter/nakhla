@@ -33,26 +33,7 @@ dependencies:
     sdk: flutter
   # State Management
   flutter_bloc: ^9.1.1
-  # Code genrator (mainly used with cubit & retrofit)
-  freezed: ^3.2.3
-  freezed_annotation: ^3.1.0
-  # Dependecy injection
-  get_it: ^8.2.0
-  # Automatically generate code for converting to and from JSON by annotating Dart classes.
-  json_serializable: ^6.11.1
-  json_annotation: ^4.9.0
-  # Networking
-  dio: ^5.9.0
-  retrofit: ^4.7.3
-  retrofit_generator: ^10.0.6
-  pretty_dio_logger: ^1.4.0
-  # localization
-  intl: ^0.20.2
-  easy_localization: ^3.0.8
-  # for splash screen
   flutter_native_splash: ^2.4.6
-  # An SVG rendering and widget library for Flutter, which allows painting
-  flutter_svg: ^2.2.1
   # For adapting screen and font size
   flutter_screenutil: ^5.9.3
 
